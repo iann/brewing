@@ -47,7 +47,27 @@ Hold in primary fermentor for 7 days at 72 °F (22 °C).
 Transfer to secondary fermentor for 40 days at 68 °F (20 °C).
 Allow to carbonate and age for 14 days at 70 °F (21 °C).
 
+## Mash & Sparge Calculator
+
+Grain Temp
+
+Target Mash Temperature
+> 148 F
+
+Strike Water Temperature
+> 4.66 Gal
+> 161F
+
+Sparge Water
+> 4.82 Gal
+
 ## Times
 
-> 28 - Nov - 2012 Yeast Starter
->> 1400 mL
+28 - Nov - 2012 Yeast Starter
+> Starter size 1400 mL WLP570
+
+30 - Nov - 2012 Brewing Day
+Ideal / Actual
+> Mash In
+> 90 Minutes  
+> 148 F
