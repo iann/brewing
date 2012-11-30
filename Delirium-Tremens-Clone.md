@@ -1,4 +1,5 @@
 # Delirium Tremens Clone
+## Based on [The Pink Elephant, If You Please](http://brewedbyus.com/recipes/57-the-pink-elephant-if-you-please/)
 
 Batch Size: 5 gal (18.9 L) Boil Size: 6.5 gal (24.6 L) Boil Time: 60 mins
 
