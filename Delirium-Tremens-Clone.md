@@ -71,8 +71,18 @@ Sparge Water
 > Starter size 1400 mL WLP570
 
 30 - Nov - 2012 Brewing Day
+
 Ideal / Actual
-> Mash In
+
+### Mash In
 > 1:45 Mash Time  
 > 148 F / 146 F
 > 4.66 Gal / 5.66 Gal
+
+### Sparge / Mash out
+> 0:30 Sparge Time
+> Strike Temp 190 F
+> Mash Out Temp 172 F
+
+### Boil
+> 60 min / 
