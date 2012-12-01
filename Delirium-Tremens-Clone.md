@@ -85,4 +85,7 @@ Ideal / Actual
 > Mash Out Temp 172 F
 
 ### Boil
-> 60 min / 
+> 60 min / 60 min
+
+01 - Dec - 2012 Fermentation Started
+>66 F Current Temperature
