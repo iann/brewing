@@ -14,8 +14,7 @@ Batch Size: 5 gal (18.9 L) Boil Size: 6.5 gal (24.6 L) Boil Time: 60 mins
 * 3 oz (85.05 g) Belgian Aromatic (22.5 °L)
 
 #### After Boil
-* 1.5 lbs (0.68 kg) Beet Sugar (0 °L)
-* 1 lbs (0.45 kg) Invert Sugar (0 °L)
+* 2 lbs table sugar
 
 ### Hops
 
