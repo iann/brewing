@@ -56,7 +56,7 @@ Target Mash Temperature
 
 Strike Water Temperature
 > 4.66 Gal
-> 161F
+> 161F / 158
 
 Sparge Water
 > 4.82 Gal
@@ -69,5 +69,6 @@ Sparge Water
 30 - Nov - 2012 Brewing Day
 Ideal / Actual
 > Mash In
-> 90 Minutes  
-> 148 F
+> 1:45 Mash Time  
+> 148 F / 146 F
+> 4.66 Gal / 5.66 Gal
