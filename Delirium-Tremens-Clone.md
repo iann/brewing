@@ -1,5 +1,6 @@
 # Delirium Tremens Clone
-## Based on [The Pink Elephant, If You Please](http://brewedbyus.com/recipes/57-the-pink-elephant-if-you-please/)
+-----------------------
+Based on [The Pink Elephant, If You Please](http://brewedbyus.com/recipes/57-the-pink-elephant-if-you-please/)
 
 Batch Size: 5 gal (18.9 L) Boil Size: 6.5 gal (24.6 L) Boil Time: 60 mins
 
@@ -33,17 +34,21 @@ Batch Size: 5 gal (18.9 L) Boil Size: 6.5 gal (24.6 L) Boil Time: 60 mins
 ### Yeast
 
 Belgian Golden Ale Yeast (Whitelabs WLP570) (Liquid)
-  Starter 1400 mL
+> Starter 1400 mL
+
 Safale S-04 (Dry)
-  After initial fermentation
+> After initial fermentation
 
 ## Directions
 
 Mash at 144 °F (62 °C) for 45 minutes.
+
 Step mash: 125 F for 10 min, 144 F for 45 min, 158 F for 30 min, 172 F mash out. Reserve simple sugars for dosage to primary after initial peak fermentation. Boil simple sugars in a small amount of water before adding to primary ferm. Invert sugar used was Lyle's Golden Syrup.
 
 Hold in primary fermentor for 7 days at 72 °F (22 °C).
+
 Transfer to secondary fermentor for 40 days at 68 °F (20 °C).
+
 Allow to carbonate and age for 14 days at 70 °F (21 °C).
 
 ## Mash & Sparge Calculator
