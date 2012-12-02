@@ -67,10 +67,12 @@ Sparge Water
 
 ## Times
 
-## 28 - Nov - 2012 Yeast Starter
+## 28 - Nov - 2012 
+### Yeast Starter
 > Starter size 1400 mL WLP570
 
-## 30 - Nov - 2012 Brewing Day
+## 30 - Nov - 2012 
+### Brewing Day
 
 Ideal / Actual
 
@@ -95,10 +97,10 @@ Ideal / Actual
 ### Fermentation Started
 > 66 F
 
-## 02 - Dec - 2012 
+## 02 - Dec - 2012
+### Additional Sugar
 > 74 F
 
-> Additional Sugar
->> 5.5 oz Lyle's Golden Syrup 
+> 5.5 oz Lyle's Golden Syrup 
 
->> 1.75 lbs Table Sugar
+> 1.75 lbs Table Sugar
