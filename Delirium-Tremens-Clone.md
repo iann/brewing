@@ -99,6 +99,6 @@ Ideal / Actual
 > 74 F
 
 > Additional Sugar
->> Added Lyle's Golden Syrup 5.5 oz
+>> 5.5 oz Lyle's Golden Syrup 
 
->> Added 1.75 lbs Table Sugar
+>> 1.75 lbs Table Sugar
