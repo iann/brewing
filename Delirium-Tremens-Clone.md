@@ -94,7 +94,7 @@ Ideal / Actual
 ## 01 - Dec - 2012 Fermentation Started
 > 66 F
 
-## 02 - Dev - 2012 Additional Sugar
+## 02 - Dec - 2012 Additional Sugar
 > 74 F
 
 > Added Lyle's Golden Syrup 5.5 oz
