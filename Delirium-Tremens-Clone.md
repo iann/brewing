@@ -91,12 +91,14 @@ Ideal / Actual
 ### Boil
 > 60 min / 60 min
 
-## 01 - Dec - 2012 Fermentation Started
+## 01 - Dec - 2012 
+### Fermentation Started
 > 66 F
 
-## 02 - Dec - 2012 Additional Sugar
+## 02 - Dec - 2012 
 > 74 F
 
-> Added Lyle's Golden Syrup 5.5 oz
+> Additional Sugar
+>> Added Lyle's Golden Syrup 5.5 oz
 
-> Added 1.75 lbs Table Sugar
+>> Added 1.75 lbs Table Sugar
