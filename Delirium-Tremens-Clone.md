@@ -76,12 +76,16 @@ Ideal / Actual
 
 ### Mash In
 > 1:45 Mash Time  
+
 > 148 F / 146 F
+
 > 4.66 Gal / 5.66 Gal
 
 ### Sparge / Mash out
 > 0:30 Sparge Time
+
 > Strike Temp 190 F
+
 > Mash Out Temp 172 F
 
 ### Boil
@@ -92,5 +96,7 @@ Ideal / Actual
 
 02 - Dev - 2012 Additional Sugar
 > 74 F
+
 > Added Lyle's Golden Syrup 5.5 oz
+
 > Added 1.75 lbs Table Sugar
