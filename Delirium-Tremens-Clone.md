@@ -97,6 +97,8 @@ Ideal / Actual
 ### Fermentation Started
 > 66 F
 
+> 1060 OG
+
 ## 02 - Dec - 2012
 ### Additional Sugar
 > 74 F
@@ -104,3 +106,9 @@ Ideal / Actual
 > 5.5 oz Lyle's Golden Syrup 
 
 > 1.75 lbs Table Sugar
+
+## 18 - Dec - 2012
+### Secondary Fermentation
+> 64 F
+
+> 1002 FG
