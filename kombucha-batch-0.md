@@ -6,7 +6,7 @@
 - 20 green tea bags
 - 1 cup of sugar
 - 1 gallon of water
-- 1 ymbiotic culture of bacteria and yeast (SCOBY)
+- 1 symbiotic culture of bacteria and yeast (SCOBY)
 
 ### Process
 Add sugar to water.
