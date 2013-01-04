@@ -19,3 +19,5 @@ Add SCOBY.
 
 ### Times
 16-Dec-2012 - Brewed / started fermentation.
+
+03-Jan-2013 - Bottled / Tasted Good
